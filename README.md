@@ -41,3 +41,4 @@ Create a program that does all of the following:
   * prompt the user for a name
   * delete the object with this name property from the array entirely.
   * print the updated `employeeList`
+
