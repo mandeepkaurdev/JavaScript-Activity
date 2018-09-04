@@ -1,6 +1,6 @@
-# JavaScript-Activity
+# JavaScript Program
 
-# Instructions
+## Instructions
 
 Create a program that does all of the following:
 
